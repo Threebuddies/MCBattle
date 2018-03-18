@@ -1,0 +1,11 @@
+main: com.gmail.gregrockss.mcbattle.Main
+name: MCBattle
+version: 0.1
+author: threebuddies
+description: Shrinking PvP plugin for minecraft
+commands:
+  mycommand:
+    description: All the commands for MCBattle
+    usage: /mcbattle
+    permission: mcbattle.mcbattle
+    permission-message: You don't have the permission to use the MCBattle plugin.
