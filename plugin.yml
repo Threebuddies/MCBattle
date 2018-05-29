@@ -4,7 +4,7 @@ version: 0.1
 author: threebuddies
 description: Shrinking PvP plugin for minecraft
 commands:
-  mycommand:
+  mcbattle:
     description: All the commands for MCBattle
     usage: /mcbattle
     permission: mcbattle.mcbattle
